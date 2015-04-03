@@ -94,6 +94,11 @@ nav a:last-of-type {
   margin: 0;
 }
 
+/* Google Map */
+iframe {
+  max-width: 100%;
+}
+
 /* Footer */
 footer {
     background-color: aliceblue;
